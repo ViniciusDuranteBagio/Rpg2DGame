@@ -1,0 +1,4 @@
+repository "RPG@Durantinho_Game_Company@cloud"
+  path "/"
+    br "/main"
+    co "/main"
